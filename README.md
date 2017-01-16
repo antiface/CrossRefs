@@ -1,6 +1,6 @@
 # CrossRefs
-
-(Coming soon!)
+* (Coming soon!)
+* Will include differential stylistic methods for Artificial Conscience modules in Schizobot system; See: Critique.py, WhatIsAConcept.py, FirstConceptOfHistory.py;
 
 ## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
 
